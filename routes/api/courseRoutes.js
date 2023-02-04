@@ -17,4 +17,15 @@ router
   .put(updateCourse)
   .delete(deleteCourse);
 
+  // api.thoughts
+  // get all
+  // get single id
+  // post
+  // put
+  // delete 
+
+  // api/thougths/:thoughtId/reactions/:reactionId
+  // post
+  // delete
+
 module.exports = router;
