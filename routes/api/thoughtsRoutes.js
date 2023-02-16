@@ -19,7 +19,7 @@ router
   .put(updateCourse)
   .delete(deleteCourse);
 
-  // api.thoughts
+  // api/thoughts
   // get all
   // get single id
   // post
