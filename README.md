@@ -37,15 +37,18 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Walkthrough Video Link
 
-- Please follow [THIS LINK!](https://drive.google.com/file/d/1BRLcbLIIPspX_B1cVO1bgb25c-X-gjPc/view)
+- Walkthrough Vide Link Coming Soon!!!
+<!-- - Please follow [THIS LINK!]() -->
 
 ## App Screenshots 
 
-![Capture1](./utils/public/images/Capture1.PNG)
+- App Screenshots Coming Soon!!!
+
+<!-- ![Capture1](./utils/public/images/Capture1.PNG)
 ![Capture2](./utils/public/images/Capture2.PNG)
 ![Capture3](./utils/public/images/Capture3.PNG)
 ![Capture4](./utils/public/images/Capture4.PNG)
 ![Capture5](./utils/public/images/Capture5.PNG)
 ![Capture6](./utils/public/images/Capture6.PNG)
-![Capture7](./utils/public/images/Capture7.PNG)
+![Capture7](./utils/public/images/Capture7.PNG) -->
 
