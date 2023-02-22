@@ -4,7 +4,7 @@ const usersRoutes = require('./usersRoutes');
 const thoughtsRoutes = require('./thoughtsRoutes');
 
 // api/users
-router.use('/users', userRoutes);
+router.use('/users', usersRoutes);
 
 // api/thoughts
 router.use('/thoughts', thoughtsRoutes);
